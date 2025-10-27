@@ -15,7 +15,7 @@ body {
 
 
 .hero-section {
-    min-height: 90vh; 
+    min-height: 87vh; 
     max-width: 630px; 
     width: 95%;
     background-color: black;
@@ -102,11 +102,10 @@ h1 {
 }
 
 .text1 {
-    margin: 10px;
+    margin: 25px;
     color: white;
     text-align: center;
     font-size: 22px; 
-    margin-top:10px;
     padding-bottom: 10px; 
 }
 
@@ -143,5 +142,6 @@ h1 {
     }
 
 }
+
 
 
