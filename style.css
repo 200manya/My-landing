@@ -23,6 +23,7 @@ body {
     background-color: rgba(0, 0, 0, 0.7);
     border-radius: 20px;
     padding: 20px 0; 
+    overflow:hidden;
 }
 
 img {
@@ -102,7 +103,8 @@ h1 {
 }
 
 .text1 {
-    margin-top: 25px;
+    /* margin-top: 25px; */
+    padding-top:20px;
     color: white;
     text-align: center;
     font-size: 22px; 
@@ -142,6 +144,7 @@ h1 {
     }
 
 }
+
 
 
 
